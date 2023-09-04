@@ -3,5 +3,7 @@
 <0.02v>
 // _Finalizacion de la creacion del documento HTML basico, con entorno basico
    _Creacion del archivo "Notasver" para llevar constancia de los cambios hechos a los repositorios
+<0.025v -error>
+// _luego de comenzar el script de JS para realizar los calculos (solo programada la suma) , no me arroja resultado   
 <0.03v>
 // _Punto

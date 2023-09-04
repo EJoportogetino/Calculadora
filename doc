@@ -19,5 +19,6 @@
     <input id="segundo" type="text" name="segundo"><br>
     <input type="submit" value="enviar">
   </form>
+  <script src="BE.js"></script>
 </body>
 </html>
