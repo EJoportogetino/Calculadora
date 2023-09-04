@@ -1,0 +1,7 @@
+<0.01v>
+// _ Creacion del documento HTML 
+<0.02v>
+// _Finalizacion de la creacion del documento HTML basico, con entorno basico
+   _Creacion del archivo "Notasver" para llevar constancia de los cambios hechos a los repositorios
+<0.03v>
+// _Punto
