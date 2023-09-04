@@ -6,7 +6,7 @@
 <body>
   <form id="calculador">
     <H1>ingrese calculo </H1>
-    <label for ='primer'>primer numero: </label>
+    <label for ="primer">primer numero: </label>
     <input id="primer" type="text" name="primer"><br>
     <label for="signo">operacion: </label>
     <select id="signo">
@@ -15,7 +15,7 @@
       <option value="*">*</option>
       <option value="/">/</option>
     </select><br>
-    <label for ='segundo'>segundo numero: </label>
+    <label for ="segundo">segundo numero: </label>
     <input id="segundo" type="text" name="segundo"><br>
     <input type="submit" value="enviar">
   </form>

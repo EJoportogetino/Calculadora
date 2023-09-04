@@ -6,4 +6,4 @@
 <0.025v -error>
 // _luego de comenzar el script de JS para realizar los calculos (solo programada la suma) , no me arroja resultado   
 <0.03v>
-// _Punto
+// _Finalizado (y arreglado) el script de JS, con las 4 operaciones fundamentales, proximo paso el entorno grafico
