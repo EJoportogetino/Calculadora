@@ -2,10 +2,11 @@
 <html>
 <head>
   <title>Calculadora</title>
+  <link rel="stylesheet" href="./estilo.css">
 </head>
 <body>
- <form id="calculador">
-    <H1>ingrese calculo </H1>
+ <form id="calculador v1" class="ejemplos">
+    <h3>1: </h3>
     <label for ="primer">primer numero: </label>
     <input id="primer" type="text" name="primer"><br>
     <label for="signo">operacion: </label>
@@ -20,7 +21,8 @@
     <input type="submit" value="enviar">
   </form> <!-- v0.03 -->
 
-  <form>
+  <form id="calculadorv2" class="ejemplos">
+    <h3>2: </h3>
     <table>
       <thead>
         <label type="text" id= "resultado"> resultado </label>
@@ -33,24 +35,23 @@
 
         </tr>
         <tr>
-          <td><button>7</button></td>
-          <td><button>8</button></td>
-          <td><button>9</button></td>
-          <td><button>+</button></td>
+          <td><button id='7'class ='boton'>7</button></td>
+          <td><button id='8'class ='boton'>8</button></td>
+          <td><button id='9'class ='boton'>9</button></td>
+          <td><button id='+'class ='boton'>+</button></td>
         </tr>
         <tr>
-          <td><button>4</button></td>
-          <td><button>5</button></td>
-          <td><button>6</button></td>
-          <td><button>-</button></td>
+          <td><button id='4'class ='boton'>4</button></td>
+          <td><button id='5'class ='boton'>5</button></td>
+          <td><button id='6'class ='boton'>6</button></td>
+          <td><button id='-'class ='boton'>-</button></td>
         </tr>
         <tr>
-          <td><button>1</button></td>
-          <td><button>2</button></td>
-          <td><button>3</button></td>
-          <td><button>=</button></td>
+          <td><button id='1'class ='boton'>1</button></td>
+          <td><button id='2'class ='boton'>2</button></td>
+          <td><button id='3'class ='boton'>3</button></td>
+          <td><button id='='class ='boton'>=</button></td>
         </tr>
-
       </tbody>
     </table>
   </form>
